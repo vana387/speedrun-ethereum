@@ -1,0 +1,2 @@
+npx create-eth@1.0.2 -e challenge-decentralized-staking challenge-decentralized-staking
+cd challenge-decentralized-staking
