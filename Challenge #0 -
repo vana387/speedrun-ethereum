@@ -1,0 +1,10 @@
+npx create-eth@1.0.5 -e challenge-tokenization challenge-tokenization
+cd challenge-tokenization
+
+yarn chain
+
+cd challenge-tokenization
+yarn deploy
+
+cd challenge-tokenization
+yarn start
